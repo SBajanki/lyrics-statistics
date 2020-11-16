@@ -1,4 +1,4 @@
-from get_lyrics import *
+from LYRICS_STATISTICS import *
 import fire
 
 def average_lyric_word_count(artist):
