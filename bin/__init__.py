@@ -1,1 +1,1 @@
-from .musicLyrics import *
+from .get_lyrics import *
