@@ -1,7 +1,7 @@
 from setuptools import setup
 import os
 
-with open(os.path.join(os.path.dirname(__file__), "LYRICS_STAT", "1.0")) as r:
+with open(os.path.join(os.path.dirname(__file__), "LYRICS_STATISTICS", "1.0")) as r:
     exec(r.read())
 setup(
     name= 'LYRICS_STAT',
