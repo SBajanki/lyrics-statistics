@@ -33,12 +33,13 @@
 
     Installation:
     ```bash
-    pip install git+http://git.wa.bl.uk/dpt/dls-processing-pipeline
+    pip install git+https://github.com/SBajanki/lyrics-statistics
+
     ```
     
     Upgrade:
     ```bash
-    pip install git+http://git.wa.bl.uk/dpt/dls-processing-pipeline --upgrade
+    pip install git+https://github.com/SBajanki/lyrics-statistics --upgrade
     
     ```
     #### Command-line Arguments
