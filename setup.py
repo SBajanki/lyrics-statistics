@@ -9,7 +9,7 @@ setup(
     description='Lyrics Statistics',
     author='Sirisha Bajanki',
     author_email='bssiri@gmail.com',
-    packages=['LYRICS_STAT'],
+    packages=['LYRICS_STATISTICS'],
     scripts=['bin/lyrics_statistics.py'],
     install_requires=['fire','numpy', 'requests'],
     python_requires='~=3.6',
